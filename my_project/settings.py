@@ -24,7 +24,9 @@ SECRET_KEY = 'bd*v%iun=(ivo-dsxqf_5fj$&=_22zf2tb#+k!v8xjw#bk7$w6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'heartsandminds.herokuapp.com',
+]
 
 # Application definition
 
