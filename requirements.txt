@@ -10,7 +10,7 @@ pytz==2018.7
 PyYAML==3.13
 requests==2.20.1
 shellescape==3.4.1
-urllib3==1.24.1
+urllib3==1.26.5
 virtualenv==16.1.0
 virtualenvwrapper-win==1.2.5
 whitenoise==4.1.2
